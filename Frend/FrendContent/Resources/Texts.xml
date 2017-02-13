@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="System.String">
+   <!--   <Texts s="t">
+      <Text Name="Finish">
+        <Lines>
+          <Line>Nothing interests me</Line>
+          <Line>Hm maybe i will roll a bit ha? :D</Line>
+          <Line>You can stand here and watch if you want</Line>
+        </Lines>
+      </Text>
+    </Texts> --> 
+  </Asset> 
+</XnaContent>
